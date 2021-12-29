@@ -1,9 +1,9 @@
 const users = [
   {
     userId: 1,
-    firstName: 'John',
+    firstName: 'Elie',
     lastName: 'Doe',
-    email: 'john@gmail.com',
+    email: 'Elie@gmail.com',
     password: '$2b$10$9XHI72tbOtjfiZpUzlG0FOvHhwf.yL/JIs0aMvZpwh0oY/oTS0C3e',
   },
   {
