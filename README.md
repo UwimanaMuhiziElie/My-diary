@@ -2,4 +2,4 @@
 
 > MyDiary is an online journal where users can pen down their thoughts and feelings.
 
-> this was Andela Bootcamp Challenge.
+> This was Andela Bootcamp Challenge that i did in october 2019.
