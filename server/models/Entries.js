@@ -2,9 +2,9 @@ const entries = [
   {
     id: 1,
     userId: 1,
-    createdOn: 'Mon Oct 28 2019',
+    createdOn: 'Mon October 28 2019',
     title: 'Nice day',
-    description: 'jdadkhjkaldhldald',
+    description: 'my mind is my warehouse',
   },
 ];
 export default entries;
