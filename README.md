@@ -1,9 +1,9 @@
 
 <h1 align="center"> :blue_book: My-Diary :pencil: </h1>
 
-> MyDiary is an online journal where users can pen down their thoughts and feelings.
+> <h3 align="center">MyDiary is an online journal where users can pen down their thoughts and feelings.</h3>
 
-> This was Andela Bootcamp Challenge that i did in october 2019.
+> <h3 align="center">This was Andela Bootcamp Challenge that i did in october 2019.</h3>
 > 
 # Table of Contents
 * [Live Link](#live-link-globe_with_meridians)
@@ -64,5 +64,5 @@ If you spot one, kindly email me @ umuhizielie01@gmail.com
 # Author :computer:
   [Elie Uwimana](https://github.com/UwimanaMuhiziElie)
   
- # Acknowledgments:bow:
+ # Acknowledgments :bow:
 [Andela Rwanda](https://www.andela.com)
